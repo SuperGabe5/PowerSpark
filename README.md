@@ -4,7 +4,7 @@ This is a GTK program that allows for me to make PowerForge accually be able to 
 
 it supports Windows (x86 and x64), macOS (M1 or Better) and Linux (amd64 and arm64)
 
-> [!INFO] System Requirements:
+> [!TIP] System Requirements:
 >
 > CPU: Anything that is at least middle class that was Made in 2012 or later
 >
